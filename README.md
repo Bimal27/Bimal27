@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Bimal Kumar Sah,
-Full Stack web developer
+My name is Bimal Kumar Sah and I am a Full stack web developer. I live in Frankfurt,Germany and currently doing my Masters in IT from Frankfurt University of Applied Sciences.
 <!--
 **Bimal27/Bimal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
